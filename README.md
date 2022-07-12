@@ -1,4 +1,4 @@
-# Hogent Resto App
+# HoResto
 
 Raadpleeg menu’s van verschillende Hogent resto’s.
 
