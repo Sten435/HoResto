@@ -1,4 +1,4 @@
-package com.example.hogent_resto
+package be.stanpersoons.hogent_menu
 
 import io.flutter.embedding.android.FlutterActivity
 

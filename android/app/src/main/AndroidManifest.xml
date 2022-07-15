@@ -1,7 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.hogent_resto">
+    package="be.stanpersoons.hogent_menu">
+      <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="hogent_resto"
+        android:label="Menu Hogent"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
