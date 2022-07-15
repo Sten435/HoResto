@@ -6,6 +6,11 @@ HoResto is een project gecreëerd met flutter over wat men in de verschillende H
 
 Om het project in b.v een IDE te runnen kan je onderstaande command gebruiken:
 
+Maak een .env bestand aan met als content
+```env
+baseUri=api-hogent.vercel.app
+```
+
 ```bash
 flutter run
 ```
